@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I am a potato&fontSize=90)
 ![glowforever's github stats](https://github-readme-stats.vercel.app/api?username=glowforever&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ji0513ji)](https://solved.ac/ji0513ji)
 <!--
