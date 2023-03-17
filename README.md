@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![glowforever's github stats](https://github-readme-stats.vercel.app/api?username=glowforever&show_icons=true)
+![david-parkk's github stats](https://github-readme-stats.vercel.app/api?username=david-parkk&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ji0513ji)](https://solved.ac/ji0513ji)
 <!--
 **glowforever/glowforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
