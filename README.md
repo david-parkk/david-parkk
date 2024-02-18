@@ -1,7 +1,15 @@
-
+<h2 align="center"> I want to be Backend Developer!</h2>
 
 <!--![david-parkk's github stats](https://github-readme-stats.vercel.app/api?username=david-parkk&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ji0513ji)](https://solved.ac/ji0513ji)-->
+## currently Learning...🌱
+    
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql&theme=light)](https://skillicons.dev)
+##
+
+## I interested in CP, PS
+
+  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ji0513ji&theme=warm)
 [![CodeForces Profile](https://cf.leed.at?id=bluesparrow)](https://codeforces.com/profile/bluesparrow)
 <!--
