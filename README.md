@@ -7,8 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,mysql,aws&theme=light)](https://skillicons.dev)
 ##
 
-## I'm interested in promblem solving
-
+## I'm interested in problem solving
   
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ji0513ji&theme=warm)
 [![CodeForces Profile](https://cf.leed.at?id=bluesparrow)](https://codeforces.com/profile/bluesparrow)
