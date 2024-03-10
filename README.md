@@ -9,8 +9,8 @@
 
 ## I'm interested in problem solving
   
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ji0513ji&theme=warm)
-[![CodeForces Profile](https://cf.leed.at?id=bluesparrow)](https://codeforces.com/profile/bluesparrow)
+<a><img  src="https://solvedac-cards-starcea.paring.moe/profile/ji0513ji" width=250px></a>
+<a><img  src="https://cf.leed.at?id=bluesparrow" width=250px></a>
 <!--
 **glowforever/glowforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
