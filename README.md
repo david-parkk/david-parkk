@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ji0513ji)](https://solved.ac/ji0513ji)-->
 ## I'm currently learning ✏️
     
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws)](https://skillicons.dev)
 ##
 
 ## I'm interested in problem solving
