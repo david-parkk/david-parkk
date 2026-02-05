@@ -12,7 +12,7 @@
 - [Bobtory](https://apps.apple.com/kr/app/%EB%B0%A5%ED%86%A0%EB%A6%AC-%ED%98%BC%EB%B0%A5-%EC%8B%9D%EB%8B%B9-%EC%A7%80%EB%8F%84-%EC%A2%8C%EC%84%9D%EC%A0%95%EB%B3%B4/id6754492756) Jul 2025 ~ Sep 2025
     - Managed NCP deployment infrastructure and improved service stability through container resource allocation and limits.
     - Designed and implemented vector similarity search using NCP embeddings and PGVector on PostgreSQL.
-    - Automated admin data ingestion via crawling, reducing manual setup time by over 50%..
+    - Automated admin data ingestion via crawling, reducing manual setup time by over 50%.
 
 - [Kuroom](https://github.com/KU-rum/backend) Jun 2025 ~
     - Developed a position-sharing feature using MySQL spatial queries.
